@@ -1,6 +1,6 @@
 {
   "name": "eyeos-service-bus",
-  "version": "6.3.36",
+  "version": "6.3.37",
   "author": "eyeOS",
   "description": "Bus client",
   "main": "./src/eyeos-service-bus.js",
